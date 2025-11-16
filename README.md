@@ -25,7 +25,7 @@
 <br>
 
 <!-- CHARACTER SECTION -->
-<img src="https://instasize.com/p/6e661cdd2935c1cb8aeec6688c39929fb6e064e891401cfc2a744634f7e318f9" width="180" style="border-radius: 10px; box-shadow: 0 0 20px #1b2f6d;">
+<img src="<img width="501" height="498" alt="ׅ_۟_死_id̲i̲a_shroud__-removebg-preview" src="https://github.com/user-attachments/assets/87981b07-cad3-4d0e-96f9-0d22970fe61b" width="180" style="border-radius: 10px; box-shadow: 0 0 20px #1b2f6d;">
 
 <h2 style="color:#b4c9ff;">IDIA SHROUD</h2>
 
