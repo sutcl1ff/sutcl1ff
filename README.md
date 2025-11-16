@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER IMAGE -->
-<img src="https://i.pinimg.com/736x/58/2d/dd/582ddd090f07f1fe1b1f176bc7720f9b.jpg" width="700" style="border: 2px solid #0a0f2c; border-radius: 8px; box-shadow: 0 0 25px #1c2a69;">
+<img src="(https://i.pinimg.com/736x/58/2d/dd/582ddd090f07f1fe1b1f176bc7720f9b.jpg)" width="700" style="border: 2px solid #0a0f2c; border-radius: 8px; box-shadow: 0 0 25px #1c2a69;">
 
 <br><br>
 
@@ -25,8 +25,7 @@
 <br>
 
 <!-- CHARACTER SECTION -->
-<img src="<img width="500" height="500" alt="13370130135360495-removebg-preview" src="https://github.com/user-attachments/assets/76b5d8f4-ec62-46ec-87c7-c6e33b5eebe8" />
-" width="180" style="border-radius: 10px; box-shadow: 0 0 20px #1b2f6d;">
+<img src="LINK_GAMBAR" width="180" style="border-radius: 10px; box-shadow: 0 0 20px #1b2f6d;">
 
 <h2 style="color:#b4c9ff;">IDIA SHROUD</h2>
 
@@ -47,18 +46,3 @@
 <br><br>
 
 </div>
-
-<!--
-**sutcl1ff/sutcl1ff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
