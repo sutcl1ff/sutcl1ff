@@ -34,7 +34,7 @@
 <!-- CHARACTER SECTION -->
 <img width="501" height="498" alt="ׅ_۟_死_id̲i̲a_shroud__-removebg-preview" src="https://github.com/user-attachments/assets/87981b07-cad3-4d0e-96f9-0d22970fe61b" width="180" style="border-radius: 10px; box-shadow: 0 0 20px #1b2f6d;">
 
-<h2 style="color:#b4c9ff;">────୨BY IDIA SHROUD STAN #1ৎ────</h2>
+<h2 style="color:#b4c9ff;">──୨BY IDIA SHROUD STAN #1ৎ──</h2>
 
 <p style="color:#7a92d9;">
   <i>"Don't leave me. Stay with me forever. ...Oof, these emo lines are killing me. I'm gonna steer clear of proposals for the rest of my life."</i>
