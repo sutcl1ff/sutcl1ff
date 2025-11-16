@@ -1,7 +1,7 @@
 <div align="center">
 
-![Stars](https://img.shields.io/github/stars/sutcl1ff/sutcl1ff?label=stars&color=blue&style=flat)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sutcl1ff.sutcl1ff)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sutcl1ff.sutcl1ff)
 
 <p align="center">
   <img src="https://img.shields.io/badge/-_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________-0a0f2c?style=flat&logoColor=blue&color=0a0f2c&labelColor=0a0f2c">
