@@ -7,7 +7,7 @@
 
 <!-- QUOTE -->
 <p align="center">
-  <i><span style="color:#8fb5ff;">"…The blue flames whisper more truth than any human ever could."</span></i>
+  <i><span style="color:#8fb5ff;">"…Gate to the Underworld."</span></i>
 </p>
 
 <br>
@@ -25,12 +25,12 @@
 <br>
 
 <!-- CHARACTER SECTION -->
-<img src="<img width="501" height="498" alt="ׅ_۟_死_id̲i̲a_shroud__-removebg-preview" src="https://github.com/user-attachments/assets/87981b07-cad3-4d0e-96f9-0d22970fe61b" width="180" style="border-radius: 10px; box-shadow: 0 0 20px #1b2f6d;">
+<img width="501" height="498" alt="ׅ_۟_死_id̲i̲a_shroud__-removebg-preview" src="https://github.com/user-attachments/assets/87981b07-cad3-4d0e-96f9-0d22970fe61b" width="180" style="border-radius: 10px; box-shadow: 0 0 20px #1b2f6d;">
 
-<h2 style="color:#b4c9ff;">IDIA SHROUD</h2>
+<h2 style="color:#b4c9ff;">────୨BY IDIA SHROUD STAN #1ৎ────</h2>
 
 <p style="color:#7a92d9;">
-  <i>blue flame • gothic circuit • silent entropy</i>
+  <i>"Don't leave me. Stay with me forever. ...Oof, these emo lines are killing me. I'm gonna steer clear of proposals for the rest of my life."</i>
 </p>
 
 <br>
@@ -38,8 +38,7 @@
 <!-- DESCRIPTION -->
 <p align="center">
   <span style="color:#8fa9ff;">
-    wandering in the quiet glow of digital ghosts.<br>
-    sometimes here — mostly elsewhere.
+    time out time out!!!1!!1
   </span>
 </p>
 
