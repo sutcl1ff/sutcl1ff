@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER IMAGE -->
-<img src="blob:https://web.whatsapp.com/9a888132-8d8c-48cf-91ad-71468248b4c0" width="700" style="border: 2px solid #0a0f2c; border-radius: 8px; box-shadow: 0 0 25px #1c2a69;">
+<img src="https://i.pinimg.com/736x/58/2d/dd/582ddd090f07f1fe1b1f176bc7720f9b.jpg" width="700" style="border: 2px solid #0a0f2c; border-radius: 8px; box-shadow: 0 0 25px #1c2a69;">
 
 <br><br>
 
