@@ -25,7 +25,7 @@
 <br>
 
 <!-- CHARACTER SECTION -->
-<img src="(https://ibb.co.com/QFWB3vGM)" width="180" style="border-radius: 10px; box-shadow: 0 0 20px #1b2f6d;">
+<img src="https://ibb.co.com/8Dz19WnL" width="180" style="border-radius: 10px; box-shadow: 0 0 20px #1b2f6d;">
 
 <h2 style="color:#b4c9ff;">IDIA SHROUD</h2>
 
