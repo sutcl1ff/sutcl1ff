@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![ ](https://visitors-badge.laobi.icu/badge?page_id=sutcl1ff.sutcl1ff)
+![ ](https://Visitors-badge.laobi.icu/badge?page_id=sutcl1ff.sutcl1ff)
 
 <p align="center">
   <img src="https://img.shields.io/badge/-_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________-0a0f2c?style=flat&logoColor=blue&color=0a0f2c&labelColor=0a0f2c">
